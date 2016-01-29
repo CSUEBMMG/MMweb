@@ -15,7 +15,7 @@
 
   function loadContent() {
     var $this = $(this),
-        url = getAbsoluteUrl($this.attr('href'));
+        url = $this.prop('href');
     //$arrowTabs.attr('data-current-tab', $this.index() + 1);  // index start from 0
 
     var loadCallback = function() {
@@ -58,17 +58,6 @@
 
   }
 
-  var getAbsoluteUrl = (function() {
-    var a;
-    return function getAbsoluteUrl(url) {
-      if(!a) {
-        a = document.createElement('a');
-      }
-      a.href = url;
-      return a.href;
-    };
-  })();
-
   function replaceOnly(newContent) {
     $(this).replaceWith(newContent);
   }
@@ -84,7 +73,7 @@
       var $this = $(this),
           url = $this.attr('href');
       if (url[0] !== '#') {
-        $this.attr('href', getAbsoluteUrl(url));
+        $this.attr('href', $this.prop('href'));
       }
     });
 
@@ -109,6 +98,9 @@
   };
 
   $body.on('click', 'a:internal', function(e) {
+    if ($(this).attr('href')[0] === '#') {
+      return;
+    }
     e.preventDefault();
     loadContent.call(this);
   });

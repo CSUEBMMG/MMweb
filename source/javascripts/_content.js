@@ -1,6 +1,8 @@
 (function($) {
   "strict";
+  var _rbox_impl_code;
   $(window).on('smoothload', function() {
+
     $('.general-content').find('.collapsible').each(function() {
       var $this = $(this),
           $more = $('<a class="collapsible-more" href="#">[more]</a>');
@@ -22,7 +24,17 @@
       }
 
       window._rbox_exec_impl = false;
-      $.getScript(url_prefix + client_id + '/rbox_impl.js');
+      if (_rbox_impl_code === undefined) {
+        $.ajax({url: url_prefix + client_id + '/rbox_impl.js',
+                cache: true, method: 'GET',
+                dataType: 'text'}).done(function(code) {
+          _rbox_impl_code = code.replace(/"Apply for this position"/g, '"Apply"');
+          $.globalEval(_rbox_impl_code);
+        });
+      }
+      else {
+        $.globalEval(_rbox_impl_code);
+      }
 
       var expand_hash = $(this).data('expand-hash');
       if (expand_hash) {

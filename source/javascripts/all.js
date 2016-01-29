@@ -5,4 +5,6 @@
 //= require history.js/history
 //= require pace/pace
 //= require_tree .
-$(document).foundation();
+$(window).on('smoothload', function() {
+  $(document).foundation()
+});

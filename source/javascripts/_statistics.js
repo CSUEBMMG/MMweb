@@ -9,11 +9,11 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window, document,'script','//connect.facebook.net/en_US/fbevents.js');
 
 (function($) {
+  ga('create', 'UA-58119300-1', 'auto');
+  fbq('init', '1678257339116978');
   $(window).on('smoothload', function() {
     ga('set', 'location', location.href);
-    ga('create', 'UA-58119300-1', 'auto');
     ga('send', 'pageview');
-    fbq('init', '1678257339116978');
     fbq('track', "PageView");
   });
 })(jQuery);
