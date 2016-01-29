@@ -50,5 +50,5 @@ after_success:
   - popd
   - |-
     if [[ $TRAVIS_BRANCH == master && $TRAVIS_PULL_REQUEST == false && $OWNER_NAME == 'CSUEBMMG' ]]; then
-      rsync -avz -e "ssh -o StrictHostKeyChecking=no" --exclude=.git/ --exclude=.gitignore build/* ${PRODUCTION_HOST}:MMweb-production/
+      rsync -avz -e "ssh -o StrictHostKeyChecking=no" --delete --exclude=.git/ --exclude=.gitignore build/* ${PRODUCTION_HOST}:MMweb-production/
     fi
