@@ -41,7 +41,6 @@ script:
   - bundle exec middleman build
 after_success:
   - pushd build
-  - cp .htaccess.apache .htaccess
   - git add -A
   - git commit -m "$BUILD_MESSAGE"
   - |-
@@ -52,4 +51,5 @@ after_success:
   - |-
     if [[ $TRAVIS_BRANCH == master && $TRAVIS_PULL_REQUEST == false && $OWNER_NAME == 'CSUEBMMG' ]]; then
       rsync -avz -e "ssh -o StrictHostKeyChecking=no" --delete --exclude=.git/ --exclude=.gitignore build/* ${PRODUCTION_HOST}:MMweb-production/
+      scp -o StrictHostKeyChecking=no build/.htaccess.apache ${PRODUCTION_HOST}:MMweb-production/.htaccess
     fi
