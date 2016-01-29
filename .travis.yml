@@ -41,6 +41,7 @@ script:
   - bundle exec middleman build
 after_success:
   - pushd build
+  - cp .htaccess.apache .htaccess
   - git add -A
   - git commit -m "$BUILD_MESSAGE"
   - |-

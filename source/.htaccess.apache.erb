@@ -1,0 +1,8 @@
+---
+layout: false
+---
+Redirect 301 /apply/html /apply/
+<% pages = sitemap.resources.find_all { |p| p.url.match(/.+\/$/) } %>
+<% pages.each do |p| %>
+Redirect 301 <%= p.url.gsub(/\/$/, '.html') %> <%= p.url %>
+<% end %>
