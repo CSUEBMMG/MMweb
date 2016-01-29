@@ -37,7 +37,7 @@ before_script:
   - git pull origin gh-pages || true
   - popd
 script:
-  - bundle exec middleman build
+  - bundle exec middleman build --glob="images/icons*" --no-clean
   - bundle exec middleman build
 after_success:
   - pushd build

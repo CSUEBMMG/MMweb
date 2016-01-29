@@ -33,3 +33,6 @@ source/images/*-s*.*
 
 # Ignore private keys
 .travis/*.pem
+
+# Ignore OS X tempfiles
+._*
