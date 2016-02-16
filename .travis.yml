@@ -28,6 +28,12 @@ install:
   - bundle install --path vendor/bundle
   - bower install
   - npm install
+  - |-
+    rm -rf vendor/assets/bower/francois-one
+    unzip fonts/francois-one.zip -d vendor/assets/bower/francois-one
+  - |-
+    rm -rf vendor/assets/bower/new-cycle
+    unzip fonts/new-cycle.zip -d vendor/assets/bower/new-cycle
 before_script:
   - openssl aes-256-cbc -K $(eval echo \$encrypted_$(eval echo \${REPO_ID_${OWNER_NAME}})_key) -iv $(eval echo \$encrypted_$(eval echo \${REPO_ID_${OWNER_NAME}})_iv) -in .travis/${OWNER_NAME}.pem.enc -out .travis/${OWNER_NAME}.pem -d
   - eval "$(ssh-agent -s)"
