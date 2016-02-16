@@ -51,6 +51,7 @@ script:
   - bundle exec middleman build
 after_success:
   - pushd build
+  - find . -type f | xargs chmod 644
   - git add -A
   - git commit -m "$BUILD_MESSAGE"
   - |-
@@ -62,7 +63,7 @@ after_success:
     if [[ $TRAVIS_BRANCH == master && $TRAVIS_PULL_REQUEST == false && $OWNER_NAME == 'CSUEBMMG' ]]; then
       mkdir -p /tmp/MMweb-production
       sshfs -o StrictHostKeyChecking=no ${PRODUCTION_HOST}:MMweb-production /tmp/MMweb-production
-      rsync -av --delete --exclude=.git/ --exclude=.gitignore build/* /tmp/MMweb-production/
+      rsync -rlptv --delete --exclude=.git/ --exclude=.gitignore build/* /tmp/MMweb-production/
       cp build/.htaccess.apache /tmp/MMweb-production/.htaccess
       fusermount -u /tmp/MMweb-production
       rm -r /tmp/MMweb-production
