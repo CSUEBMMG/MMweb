@@ -2,3 +2,15 @@
   @include hide-text;
   @include use-sprite("facebook-icon");
 }
+.social-twitter {
+  @include hide-text;
+  @include use-sprite("twitter-icon");
+}
+.social-google+ {
+  @include hide-text;
+  @include use-sprite("googleplus-icon");
+}
+.social-youtube {
+  @include hide-text;
+  @include use-sprite("youtube-icon");
+}
