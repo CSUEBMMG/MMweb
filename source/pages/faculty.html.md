@@ -1,7 +1,7 @@
 ---
 title: "Faculty & Staff"
 date: 2016-01-10 12:11 UTC
-heroimage: bg1.jpg
+heroimage: bg_faculty.jpg
 ---
 ## Permanent Faculty
 
