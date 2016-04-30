@@ -38,6 +38,7 @@
       if (window.onload && typeof(window.onload) == 'function') {
         window.onload();
       }
+      $(window).scrollTop(0);
     };
 
     if (url in _smoothLoadCaches) {
