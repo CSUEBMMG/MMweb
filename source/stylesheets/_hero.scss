@@ -18,32 +18,42 @@ $hero-caption-title-size: rem-calc(32px);
 }
 
 .hero-container {
-  height: $hero-large-height;
+  @include media-medium-up {
+    height: $hero-large-height;
+    .slick-list {
+      height: $hero-large-height;
+    }
+    .slick-slide {
+      height: $hero-large-height;
+      img {
+        min-width: $row-width;
+      }
+      .hero-caption {
+        display: block;
+      }
+    }
+  }
 
   &.slick-initialized {
     overflow: visible;
   }
 
   .slick-list {
-    height: $hero-large-height;
     overflow: hidden;
   }
 
   .slick-slide {
-    height: $hero-large-height;
     position: relative;
     img {
       margin-left: auto;
       margin-right: auto;
-      min-width: $row-width;
-    }
-    .hero-caption {
-      display: block;
     }
   }
 
-  > div:first-of-type .hero-caption {
-    display: block;
+  @include media-medium-up {
+    > div:first-of-type .hero-caption {
+      display: block;
+    }
   }
 
   .hero-caption {
@@ -148,7 +158,7 @@ $hero-caption-title-size: rem-calc(32px);
         background-color: $color-cyan;
         @include set-multiple($hero-bullet-size, width height);
         border: none;
-        border-radius: $hero-bullet-size / 2;  
+        border-radius: $hero-bullet-size / 2;
         margin: $hero-bullet-spacing;
         outline: none;
         padding: 0;
