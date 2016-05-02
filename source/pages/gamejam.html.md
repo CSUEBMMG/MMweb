@@ -19,3 +19,5 @@ Each GAME JAM opens on Friday afternoon with a mixer event, a keynote that outli
 
 Since 2014, approximately 250 students from six departments and three colleges at CSUEB as well assister CSU universities have participated in Game Jam.
 
+[more information at eastbaygamejam.com](http://www.eastbaygamejam.com/){:target='_blank'} and on [facebook](https://www.facebook.com/eastbaygamejam/){:target='_blank'}
+
