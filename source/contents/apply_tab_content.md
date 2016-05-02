@@ -12,7 +12,7 @@ Each year, the MM Grad program accepts students from diverse disciplines. As the
     {: .collapsible }
 3. Evidence of interactivity in the submitted portfolio
 
-    > The committee is looking to see that you've got some experience working with interactive media. Common forms of this are websites involving navigation or interactive widgets, DVDs with menus and indexes, interactive PDFs, Flash/SWF individual projects, MAX/MSP or Pure Data projects or use of MIDI in performance, or any other medium that features reaction to minimal amounts of user input. Often, your portfolio itself is proof of this, especially if you submit your works to be viewed on a website that you designed or content management system that you modified.
+    > The committee is looking to see that you&rsquo;ve got some experience working with interactive media. Common forms of this are websites involving navigation or interactive widgets, DVDs with menus and indexes, interactive PDFs, Flash/SWF individual projects, MAX/MSP or Pure Data projects or use of MIDI in performance, or any other medium that features reaction to minimal amounts of user input. Often, your portfolio itself is proof of this, especially if you submit your works to be viewed on a website that you designed or content management system that you modified.
     {: .collapsible }
 
 ### Tips for a successful application:
