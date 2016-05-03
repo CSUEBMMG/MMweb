@@ -1,5 +1,6 @@
 Redirect 301 /apply/html /apply/
 Redirect 301 /curriculum.html /curriculum/
+Redirect 301 /international.html /international/
 Redirect 301 /student-works.html /student-works/
 Redirect 301 /faculty.html /faculty/
 Redirect 301 /admission.html /admission/
