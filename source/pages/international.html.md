@@ -6,7 +6,13 @@ heroimage: bg1.jpg
 international
 ----
 
-Blah blah blah
+- [ ] for an empty checkbox
+- [ ] for an empty checkbox
+- [ ] for an empty checkbox
+- [ ] for an empty checkbox
+- [ ] for an empty checkbox
+- [ ] for an empty checkbox
+- [ ] for an empty checkbox
 
 ### Unsorted list:
 
