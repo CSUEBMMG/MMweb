@@ -6,23 +6,23 @@ heroimage: bg1.jpg
 international
 ----
 
-<i class="icon-file"></i> APPLICATION CHECKLIST
+## APPLICATION CHECKLIST
 
 ###[  ] University Application
-###[  ] English Proficiency
-###[  ] Send Official Transcripts 
+####[  ] English Proficiency
+####[  ] Send Official Transcripts 
 
 
 ###[  ] Department Application 
-###[  ] One-page Statement of Purpose
-###[  ] Portfolio 
-###[  ] Resume or Curriculum Vitae 
-###[  ] Two letters of recommendation
-###[  ] Unofficial Transcripts
+####[  ] One-page Statement of Purpose
+####[  ] Portfolio 
+####[  ] Resume or Curriculum Vitae 
+####[  ] Two letters of recommendation
+####[  ] Unofficial Transcripts
 
 
-###[  ] Financial Aid 
-###[  ] TUITION: 
+####[  ] Financial Aid 
+####[  ] TUITION: 
 
 
 
