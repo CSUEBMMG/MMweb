@@ -6,13 +6,25 @@ heroimage: bg1.jpg
 international
 ----
 
-<i class="icon-file"></i> tests
-- [ ] for an empty checkbox
-- [ ] for an empty checkbox
-- [ ] for an empty checkbox
-- [ ] for an empty checkbox
-- [ ] for an empty checkbox
-- [ ] for an empty checkbox
+<i class="icon-file"></i> APPLICATION CHECKLIST
+
+###[  ] University Application
+###[  ] English Proficiency
+###[  ] Send Official Transcripts 
+
+
+###[  ] Department Application 
+###[  ] One-page Statement of Purpose
+###[  ] Portfolio 
+###[  ] Resume or Curriculum Vitae 
+###[  ] Two letters of recommendation
+###[  ] Unofficial Transcripts
+
+
+###[  ] Financial Aid 
+###[  ] TUITION: 
+
+
 
 ### Unsorted list:
 
