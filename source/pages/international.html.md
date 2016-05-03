@@ -6,7 +6,7 @@ heroimage: bg1.jpg
 international
 ----
 
-- [ ] for an empty checkbox
+<i class="icon-file"></i> tests
 - [ ] for an empty checkbox
 - [ ] for an empty checkbox
 - [ ] for an empty checkbox
