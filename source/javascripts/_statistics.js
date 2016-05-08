@@ -13,6 +13,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   fbq('init', '1678257339116978');
   $(window).on('smoothload', function() {
     ga('set', 'location', location.href);
+    ga('require', 'linkid');
     ga('send', 'pageview');
     fbq('track', "PageView");
   });
