@@ -1,7 +1,7 @@
 ---
 title: 'Program Curriculum'
 date: 2016-01-08 06:20 UTC
-heroimage: bg1.jpg
+heroimage: bg9.jpg
 ---
 
 Program Curriculum
@@ -25,7 +25,7 @@ Introduction to scripting and programming for embedded systems in multimedia pro
 #### MM 6101 Multimedia Seminar
 Seminar on the conceptual strategies for multimedia content development. Course also examines key historical events in the emergence of multimedia forms and the role of multimedia in the creation of culture. Particular emphasis placed on small group working dynamics. Course is limited to Graduate Multimedia majors.
 
-#### MM 6102 Application of Learning Theories to Multimedia Design 
+#### MM 6102 Application of Learning Theories to Multimedia Design
 A hands-on production course that examines trends in cognitive, social, psychological, and humanistic theories for multimedia content development. Prerequisite: MM 6101
 
 #### MM 6103 Business Basics in Multimedia

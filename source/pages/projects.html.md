@@ -1,7 +1,7 @@
 ---
 title: "Research & Thesis Projects"
 date: 2016-01-19 11:23 UTC
-heroimage: bg2.jpg
+heroimage: bg11.jpg
 ---
 ## Projects
 
@@ -13,8 +13,8 @@ View [Thesis Project Videos](https://www.youtube.com/watch?v=Z6aAhnLbHaw&list=PL
 
 ### 2015
 
-* Live3
-* Project Daffodil
+* [Live3](http://www.live3.me/)
+* [Project Daffodil](http://www.projectdaffodil.com/)
 * VIME
 
 ### 2014
@@ -31,7 +31,7 @@ View [Thesis Project Videos](https://www.youtube.com/watch?v=Z6aAhnLbHaw&list=PL
 
 ### 2012
 
-* Concealed 360 - https://www.youtube.com/watch?v=-_5K_chIyvQ
+* [Concealed 360](https://www.youtube.com/watch?v=-_5K_chIyvQ)
 * The Pneumatic Consortium
 
 ### 2011

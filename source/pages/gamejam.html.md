@@ -1,7 +1,7 @@
 ---
 title: "Game Jam"
 date: 2016-01-19 10:50 UTC
-heroimage: bg1.jpg
+heroimage: bg10.jpg
 ---
 Game Jam
 ----
@@ -12,4 +12,3 @@ Since 2014, 250 students from 6 departments and three colleges at CSUEB as well 
 The structure of this event is to involve students in all phases of the event.  Students are involved in the planning, preparation and execution of the event and the actual participants of the event.  Students will network with industry professionals and work in cross functional teams and across disciplines and majors.  We live in a time when multidisciplinary ideation in the cornerstone to success in emerging technologies.  Employers across the spectrum stress the importance for new graduates to have highly collaborative skills and ability to work in teams. The project will expose all students to a multidisciplinary approach of ideation and execution.  STEM disciplines alongside of art will combine for an integrated STEAM event. Not only do students develop skills in teamwork during the event, but also in the weeks leading up to the event.
 
 The GAME JAM is a non-competitive event focussed on ideation and innovation and creating prototypes, rather than on product oriented success.
-

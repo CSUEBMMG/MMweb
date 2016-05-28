@@ -1,7 +1,7 @@
 ---
 title: "People"
 date: 2016-01-19 11:23 UTC
-heroimage: bg1.jpg
+heroimage: bg10.jpg
 ---
 ## People
 
