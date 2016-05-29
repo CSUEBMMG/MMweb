@@ -21,4 +21,4 @@ After graduating, our students pursue a variety of career paths. With a command 
 
 ### Impressive Ideas, Innovative Results
 
-Creativity, innovation, and critical thinking about the intersection of technology and humanity are values that are hard-coded into today's forward thinkers. See yourself contributing your skills with others towards crafting ideas and making new interactive content development at CSU East Bay’s Multimedia Graduate Program.
+Creativity, innovation, and critical thinking about the intersection of technology and humanity are values that are hard-coded into today&rsquo;s forward thinkers. See yourself contributing your skills with others towards crafting ideas and making new interactive content development at CSU East Bay’s Multimedia Graduate Program.
