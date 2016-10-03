@@ -29,12 +29,12 @@
 #     - `title`: Optional.
 #       The content of the link. Default to article title or "Read more".
 -
-  src: "bg1.jpg"
+  src: "bg6.jpg"
   caption:
     position: top-left
-    title: Head first toward career success
-    description: Creativity, innovation, and critical thinking about the intersection of technology and humanity at the Multimedia Graduate Program 
-    link: 
+    title: Head first into Interaction Design
+    description: Creativity, innovation, and critical thinking about the intersection of technology and humanity at the Multimedia Graduate Program
+    link:
       article: student-works
       title: 'Read More'
 -
@@ -60,4 +60,4 @@
 -
   src: "bg5.jpg"
 -
-  src: "bg6.jpg"
+  src: "bg1.jpg"
