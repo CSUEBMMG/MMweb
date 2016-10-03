@@ -8,7 +8,7 @@ main_content_sidebar: contents/main_content_sidebar
 ---
 ### Important Dates for Fall 2017 Entry
 
-Department and University applications for Fall Quarter 2016 Entry
+Department and University applications for Fall Quarter 2017 Entry
 
 | **June 1, 2017**{: .nowrap } | Multimedia department application for Fall Quarter 2017 is due |
 | **June 1, 2017**{: .nowrap } | The University Application for Fall Quarter 2017 is due for international applicants residing outside the U.S. |

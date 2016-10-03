@@ -57,7 +57,21 @@
       title: 'Read More'
 -
   src: "bg4.jpg"
+  caption:
+    position: top-left
+    title: Now Accepting applications
+    description: The Multimedia Graduate Program at California State University, East Bay provides artists and musicians from diverse media backgrounds an opportunity to work collaboratively while pursuing an M.A. in Multimedia.  *Multimedia is STEM field and qualifies for the US OTP extensions for international students.
+    link:
+      article: admission
+      title: 'Read More'
 -
   src: "bg5.jpg"
+  caption:
+    position: top-right
+    title: 現在接受申請2017秋季
+    description: [多媒體研究生項目在加州州立大學東灣提供藝術家和音樂家, 來自不同的媒體背景的機會協作追求一個m.a. 在多媒體.*多媒體是stem領域和晉級為美國otp擴展國際學生.
+    link:
+      article: admission
+      title: 'Read More'
 -
   src: "bg1.jpg"
