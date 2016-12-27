@@ -7,6 +7,12 @@ heroimage: bg10.jpg
 
 The strength of the Multimedia Graduate Program lies in its unique 2nd year emphasis on production. Within an exclusive facility that is accessible 24 hours, 7 days a week, thesis teams work intensively on their proposed thesis projects and are advised weekly by members of the Multimedia Graduate Program committee. Amongst other dates during a quarter, thesis teams make presentations to other students, the public, and the committee as part of regular assessment of project progress.
 
+### 2016
+
+* Ideon
+* Zahra
+* Sita
+
 ### 2015
 
 * Live3
