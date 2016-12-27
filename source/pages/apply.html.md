@@ -1,6 +1,10 @@
 ---
 title: "Apply Now"
+<<<<<<< Updated upstream
 date: 2016-12-26 02:29 UTC
+=======
+date: 2016-12-25 02:29 UTC
+>>>>>>> Stashed changes
 heroimage: bg4.jpg
 ---
 Apply by May 15 and start this Fall!
