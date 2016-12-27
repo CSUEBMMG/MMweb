@@ -1,5 +1,5 @@
-## Interactive Content Development <small>at California State University, East Bay</small>
+## Interaction Design <small>at California State University, East Bay</small>
 
-The Multimedia Graduate Program at California State University, East Bay provides artists and musicians from diverse media backgrounds an opportunity to work collaboratively while pursuing an M.A. in Multimedia.
+This unique program provides artists studio and fabrication spaces, courses in emerging methods, contemporary art and theory, an engaged faculty and access to student research grants and mentorship while pursuing an M.A in Multimedia with concentration in Interaction Design
 
 [**Read More...**](#collaboration-and-collegiality)
