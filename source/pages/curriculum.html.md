@@ -7,7 +7,7 @@ heroimage: bg9.jpg
 Program Curriculum
 ------------------
 
-CSUEB is on a quarter system. The Graduate Multimedia Program requires a 52-unit minimum.  Most students, by their own choice, take more than the minimum requirements. Electives are drawn from the entire spectrum of courses at CSU East Bay.
+CSUEB is on a quarter system. The M.A. Multimedia in Interaction Design requires a 52-unit minimum.  Most students, by their own choice, take more than the minimum requirements. Electives are drawn from the entire spectrum of courses at CSU East Bay.
 
 ### Technical Preparation Courses [12 units]
 
