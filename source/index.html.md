@@ -2,7 +2,7 @@
 layout: landing
 title: Welcome
 tabindex: 1
-tab_content_video: https://www.youtube.com/embed/Z6aAhnLbHaw
+tab_content_video: https://www.youtube.com/embed/lyUln1r9QP0
 tab_content: contents/overview_tab_content
 main_content_sidebar: contents/main_content_sidebar
 unique_key: overview
