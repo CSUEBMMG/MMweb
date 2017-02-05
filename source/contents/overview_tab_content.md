@@ -3,3 +3,4 @@
 This unique program provides artists studio and fabrication spaces, courses in emerging methods, contemporary art and theory, an engaged faculty and access to student research grants and mentorship while pursuing an M.A in Multimedia with concentration in Interaction Design.
 
 [**Read More...**](#collaboration-and-collegiality)
+Or check out our [Thesis Videos](https://www.youtube.com/channel/UCDWQ2vaXsKYzv_0RqICmtIg/videos)
