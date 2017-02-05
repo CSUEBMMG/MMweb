@@ -52,6 +52,7 @@ script:
 after_success:
   - pushd build
   - find . -type f | xargs chmod 644
+  - cp ../.travis/gh-pages.gitignore .gitignore
   - git add -A
   - git commit -m "$BUILD_MESSAGE"
   - |-
