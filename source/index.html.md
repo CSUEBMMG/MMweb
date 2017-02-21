@@ -2,7 +2,7 @@
 layout: landing
 title: Earn your M.A. in Multimedia and Interaction Design
 tabindex: 1
-tab_content_video: https://www.youtube.com/embed/lyUln1r9QP0?&autoplay=1
+tab_content_video: https://www.youtube.com/embed/lyUln1r9QP0?&autoplay=0&rel=0
 tab_content: contents/overview_tab_content
 main_content_sidebar: contents/main_content_sidebar
 unique_key: overview
