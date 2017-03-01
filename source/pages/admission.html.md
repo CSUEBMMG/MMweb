@@ -20,13 +20,12 @@ Information sessions for all who are interested in learning more about the progr
 
 
 The information sessions are designed to give you a chance to tour the facilities and ask questions about applying to the program.
-### Please [RSVP](https://www.eventbrite.com/e/multimedia-graduate-program-info-session-tickets-20479142667){:target='_blank'}
+### Please email multimedia [at] csueastbay.edu
 
 
-The Multimedia Graduate Program at California State University, East Bay provides artists and musicians from diverse media backgrounds an opportunity to work collaboratively while pursuing an M.A. in Multimedia.
+The Multimedia Graduate Program at California State University, East Bay provides artists and musicians from diverse media backgrounds an opportunity to work collaboratively while pursuing an M.A. in Multimedia with a concentration in Interaction Design.
 
 
 ### WHERE
 Multimedia Graduate Office, Art & Education (AE) Building, Room 1231b,
-
 California State University, East Bay, 25800 Carlos Bee Blvd., Hayward, CA

@@ -1,6 +1,6 @@
 ## Apply for Admission
 
-Each year, the MM Grad program accepts students from diverse disciplines. As the program is team-based, we look for artists that exhibit:
+Each year, the Multimedia Graduate program accepts students from diverse disciplines. As the program is team-based, we look for artists that exhibit:
 
 1. Significant depth of skill and craft in at least one area of digital media
 
