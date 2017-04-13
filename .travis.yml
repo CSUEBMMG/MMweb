@@ -4,7 +4,7 @@ env:
   global:
     - |-
       OWNER_NAME=$(echo $TRAVIS_REPO_SLUG | awk -F '/' '{print $1}')
-      REPO_ID_CSUEBMMG="22eeb8333793"
+      REPO_ID_csuebmmg="22eeb8333793"
       REPO_ID_philiptzou="3a03254beac3"
       BUILD_MESSAGE="build(${TRAVIS_COMMIT}): $(git log --format=%B -n 1 $TRAVIS_COMMIT)"
       BUILD_USER_NAME="$(git log --format=%aN -n 1 $TRAVIS_COMMIT)"
@@ -61,7 +61,7 @@ after_success:
     fi
   - popd
   - |-
-    if [[ $TRAVIS_BRANCH == master && $TRAVIS_PULL_REQUEST == false && $OWNER_NAME == 'CSUEBMMG' ]]; then
+    if [[ $TRAVIS_BRANCH == master && $TRAVIS_PULL_REQUEST == false && $OWNER_NAME == 'csuebmmg' ]]; then
       mkdir -p /tmp/MMweb-production
       sshfs -o StrictHostKeyChecking=no ${PRODUCTION_HOST}:MMweb-production /tmp/MMweb-production
       rsync -rlptv --delete --exclude=.git/ --exclude=.gitignore build/* /tmp/MMweb-production/
