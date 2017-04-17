@@ -6,6 +6,8 @@ Redirect 301 /admission.html /admission/
 Redirect 301 /apply.html /apply/
 Redirect 301 /forum.html /forum/
 Redirect 301 /people.html /people/
+Redirect 301 /resources.html /resources/
+Redirect 301 /semestercurriculum.html /semestercurriculum/
 Redirect 301 /faculty.html /faculty/
 Redirect 301 /scholarships.html /scholarships/
 Redirect 301 /student-works.html /student-works/
