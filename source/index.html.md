@@ -7,17 +7,38 @@ tab_content: contents/overview_tab_content
 main_content_sidebar: contents/main_content_sidebar
 unique_key: overview
 ---
-### Collaboration and Collegiality
+###Master's Degree in Multimedia
 
-Each of our students brings to the Multimedia Graduate Program their exceptional skill and craft in their primary creative area along with great ability and promise in a secondary creative area. The diversity of these creative areas amongst our students and their implementation in collaborative coursework is what sets the M.A. Multimedia in Interaction Design apart from other similar graduate programs in the United States. Our students make bold, new interactive content pieces that are solely researched, designed, and executed by them and their peers.
+The Master of Arts (MA) in Multimedia with a Concentration in Interaction Design is a unique interdisciplinary program that focuses on creating interactive applications and objects as part of a designed user experience. It emphasizes the creative and technical aspects of current and emerging technologies and their use in creating, controlling, delivering, and presenting compelling content in an interactive form. Plus, it draws from elements in a number of fields including art, computer science, journalism, psychology, and telecommunications.
 
-### Creative Spaces
+In addition to a focus on Interaction Design (IxD), the master's degree in Multimedia draws heavily from User Experience (UX) and Human Centered Design (HCD) as well as design thinking strategies used to create interactive applications and objects as part of a designed user experience. Key program features include the following:
 
-While studying Interaction Design at CSU East Bay, our students are given access to labs that foster a sense of community and collaboration and equipment that affords them the tools to make new media, digital art, and other interactive content pieces. During their second year of study, students who have passed the rigorous Masters candidacy examination take residence in a graduate lab that is spacious enough for large projects and accessible to them 24 hours a day, 7 days a week. During this year they are engaged in research, development, and production of a team thesis and are given great freedom to experiment with new ideas and techniques for the development of digital artworks and products.
+ - Access to student research grants and mentorship
+ - An artists studio and fabrication spaces
+ - An engaged faculty
+ - Contemporary art and theory
+ - Courses in emerging methods
 
-### Head First Toward Career Success
+Multimedia is a STEM field, which means it integrates elements of four disciplines: science, technology, engineering, and mathematics. This designation makes it possible for international students (with F-1 status) to apply for the 24-month Optional Practical Training Extension for STEM Students (STEM OPT). The program allows students who've completed their degrees to obtain practical training through jobs that directly pertain to their fields of study. ### Teamwork and Project-Oriented Goals
 
-After graduating, our students pursue a variety of career paths. With a command of new skills, some students return to their previous workforce which positions them to be leaders in their primary creative areas. Others will pursue their education further in the form of Ph.D. studies in their primary creative field. Increasingly, graduates form start-up businesses developed from their thesis project and seek new opportunities and funding as they seek to take their ideas to market. More importantly, the M.A. Multimedia in Interaction Design at CSU East Bay enables students to center their success on their terms within the types of new media, digital art and interactive content pieces they want to develop with others.
+The MA in Multimedia with a Concentration in Interaction Design program embraces industry skills and practices by emphasizing teamwork and project-oriented goals. Students learn the skills needed to adapt quickly to new environments - a valuable asset for any profession. Because multimedia is a rapidly developing and rapidly changing field, the program focuses as much on the enduring creative process as on the transient technology.
+
+The Multimedia master's is a two-year degree program. Most coursework is offered in the evening. During the first year, students develop a theoretical foundation in multimedia technology, enhance their creative skills, and learn to work effectively in teams. During the second year, small teams of students with various backgrounds and talents create innovative, professional-quality interactive multimedia projects. Ideas for group projects can originate from students, faculty, or external sources. Many of CSU Eastbay's student projects have won national and international awards.
+
+
+### Benefits of the CSU East Bay Graduate Program
+
+Students in the Multimedia graduate program enjoy a number of benefits including small student-teacher ratios and a dedicated interdisciplinary faculty. Thesis project students have 24-hour access to their own professional-quality multimedia production studio. These facilities are well equipped and maintained with the latest technology. Students can use the full maker space with a 60 watt laser cutter, many 3d printers, and CNC milling machines. They have access to the bronze foundry, a full metal shop, and a wood shop.
+
+Participation in events like Game Jams and Hackathons enables students to gain hands-on experience; strengthens their team building skills; and provides networking opportunities with fellow students, faculty members, and industry professionals. Students also participate in faculty-led research initiatives including collaborations with other disciplines that enhance their theoretical education and provide research experience.
+
+###  Career Opportunities
+
+Located in the San Francisco Bay Area, the epicenter of the interactive digital media industry and technological innovation, the Multimedia graduate program prepares students for successful careers across multiple growing industries.
+
+Interaction Designers create meaningful relationships between people and their interactive digital products, environments, systems, or services. Creative Technologists are both strategists and innovators - technology-focused individuals integrated into a creative team. They are integrators who blur the lines between technology and the creative to create new ways of telling stories using technology.
+
+Multimedia MA Graduates are skilled team members - innovators with a high degree of expertise in interactive content development. They are at home in film and video studios, graphic and exhibition design studios, production and post-production houses, publishing companies, training and communication groups, scientific visualization teams, support teams for educational institutions and business presentations, and advertising agencies and news outlets. They work as Interaction Designers, Creative Technologists, Entrepreneurs, and User Interface (UI) Designers in top companies like Google, General Electric, Facebook as well as a host of smaller, lean startups.
 
 ### Impressive Ideas, Innovative Results
 
