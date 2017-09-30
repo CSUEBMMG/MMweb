@@ -1,7 +1,7 @@
 MMweb
 =====
 
-[![Travis CI](https://travis-ci.org/CSUEBMMG/MMweb.svg)](https://travis-ci.org/CSUEBMMG/MMweb)
+[![Travis CI](https://travis-ci.org/csuebmmg/MMweb.svg)](https://travis-ci.org/csuebmmg/MMweb)
 
 GH page: http://csuebmmg.github.io/MMweb/
 
