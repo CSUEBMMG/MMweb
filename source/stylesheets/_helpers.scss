@@ -1,7 +1,7 @@
 @function sprite-height($sprite) {
-  @return rem-calc(image-height(sprite-file($icons, $sprite)));
+  @return rem-calc(image-height(sprite-file($sprite-icons, $sprite)));
 }
 
 @function sprite-width($sprite) {
-  @return rem-calc(image-width(sprite-file($icons, $sprite)));
+  @return rem-calc(image-width(sprite-file($sprite-icons, $sprite)));
 }
