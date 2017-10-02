@@ -7,6 +7,11 @@ heroimage: bg10.jpg
 
 The strength of the M.A. in Multimedia with a concentration in Interaction Design lies in its unique 2nd year emphasis on production. Within an exclusive facility that is accessible 24 hours, 7 days a week, thesis teams work intensively on their proposed thesis projects and are advised weekly by members of the Multimedia Graduate Program committee. Amongst other dates during a quarter, thesis teams make presentations to other students, the public, and the committee as part of regular assessment of project progress.
 
+### 2017
+* Symmetrical Chaos
+* This Way!
+* Appathogenic
+
 ### 2016
 
 * Ideon

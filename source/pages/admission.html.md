@@ -6,15 +6,15 @@ tabindex: 2
 tab_content: contents/apply_tab_content
 main_content_sidebar: contents/main_content_sidebar
 ---
-### Important Dates for Fall 2017 Entry
+### Important Dates for Fall 2018 Entry
 
-Department and University applications for Fall Quarter 2017 Entry
+Department and University applications for Fall Semester 2018 Entry
 
-| **June 1, 2017**{: .nowrap } | Multimedia department application for Fall Quarter 2017 is due |
-| **June 1, 2017**{: .nowrap } | The University Application for Fall Quarter 2017 is due for international applicants residing outside the U.S. |
-| **June 1, 2017**{: .nowrap } | University Application for Fall Quarter 2017 is due for U.S. residents and international applicants residing inside the U.S. (with F-1 visa) |
+| **May 15, 2018**{: .nowrap } | Multimedia department application for Fall Semester 2018 is due |
+| **May 15, 2018**{: .nowrap } | The University Application for Fall Semester 2018 is due for international applicants residing outside the U.S. |
+| **May 15, 2018**{: .nowrap } | University Application for Fall Semester 2018 is due for U.S. residents and international applicants residing inside the U.S. (with F-1 visa) |
 
-### Information Sessions for Fall 2017 Entry
+### Information Sessions for Fall 2018 Entry
 
 Information sessions for all who are interested in learning more about the program are scheduled once a month beginning in October. The Director presents an overview of the program, reviews the application process, presents samples of graduate student projects, a tour of the facilities and answers questions. If you want to attend an information session, please contact us.
 
