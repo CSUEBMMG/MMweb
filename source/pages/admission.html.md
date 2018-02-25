@@ -10,13 +10,14 @@ main_content_sidebar: contents/main_content_sidebar
 
 Department and University applications for Fall Semester 2018 Entry
 
-| **May 15, 2018**{: .nowrap } | Multimedia department application for Fall Semester 2018 is due |
-| **May 15, 2018**{: .nowrap } | The University Application for Fall Semester 2018 is due for international applicants residing outside the U.S. |
+| **May 31, 2018**{: .nowrap } | Multimedia department application for Fall Semester 2018 is due |
+| **May 1, 2018**{: .nowrap } | The University Application for Fall Semester 2018 is due for international applicants residing outside the U.S. |
 | **May 15, 2018**{: .nowrap } | University Application for Fall Semester 2018 is due for U.S. residents and international applicants residing inside the U.S. (with F-1 visa) |
 
 ### Information Sessions for Fall 2018 Entry
 
 Information sessions for all who are interested in learning more about the program are scheduled once a month beginning in October. The Director presents an overview of the program, reviews the application process, presents samples of graduate student projects, a tour of the facilities and answers questions. If you want to attend an information session, please contact us.
+<a href="https://www.eventbrite.com/e/take-a-look-around-multimedia-graduate-program-information-session-tickets-41924585564?ref=elink" target="_blank" style="color:#D23CE2">RSVP Now!</a>
 
 
 The information sessions are designed to give you a chance to tour the facilities and ask questions about applying to the program.
