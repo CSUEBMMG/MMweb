@@ -13,6 +13,8 @@ Please complete both applications. Complete instructions are located [here](../a
    *For international applicants residing outside the U.S. the University application is due May 1, 2018.*
 
 2. ### Department Application
+   The deadline for department applications is May 31, 2018.
+   
 <script type="text/javascript" id="rbox-loader-script">
 if(!window._rbox){
 _rbox = { host_protocol:document.location.protocol, ready:function(cb){this.onready=cb;} };
@@ -25,4 +27,3 @@ _rbox = { host_protocol:document.location.protocol, ready:function(cb){this.onre
  }})(document, 'script');
 }
 </script>
-   The deadline for department applications is May 31, 2017.
