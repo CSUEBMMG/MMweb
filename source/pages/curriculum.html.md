@@ -53,10 +53,13 @@ Two (2) courses for 6 units are required:
 
 __MM 621__ - Screen Based Interaction Units: 3
 
-> Study of the process of designing screen based interactive prototypes within the contexts of apps, games, the web. Students use various tools, including simple scripting, to create prototypes and then test and refine them.{: .collapsible }
+  > Study of the process of designing screen based interactive prototypes within the contexts of apps, games, the web. Students use various tools, including simple scripting, to create prototypes and then test and refine them.
+  {: .collapsible }
 
 __MM 622__ - Physical Prototyping Units: 3
->Explore interactivity with physical objects. Study of the process of designing interactive prototypes, both autonomous and networked. Students use various tools, including simple scripting, 3D printing and microcontrollers, to create prototypes and then test and refine them.{: .collapsible }
+  
+  >Explore interactivity with physical objects. Study of the process of designing interactive prototypes, both autonomous and networked. Students use various tools, including simple scripting, 3D printing and microcontrollers, to create prototypes and then test and refine them.
+  {: .collapsible }
 
 ### Interaction Design Electives
 Choose two (2) electives for 6 units:
