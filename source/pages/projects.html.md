@@ -11,6 +11,22 @@ The strength of the M.A. in Multimedia with a concentration in Interaction Desig
 
 View [Thesis Project Videos](https://www.youtube.com/watch?v=Z6aAhnLbHaw&list=PL-zTjF_nOo37KT4xs3nNPe88es_LDX-EK) on our YouTube Channel
 
+### 2018
+TBA
+
+### 2017
+
+* Symmetrical Chaos: An interactive video projection project
+* APPathogenic: A Learning app Biology
+* Explorer: An augmented reality campus tour
+
+### 2016
+
+* Zahrah 2216: An interactive video art installation
+* Ideon: Changing a narrative using subconscious input
+* This time for Sita: An interactive popup book with video projections
+
+
 ### 2015
 
 * [Live3](http://www.live3.me/)
