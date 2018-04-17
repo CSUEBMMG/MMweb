@@ -10,9 +10,9 @@ main_content_sidebar: contents/main_content_sidebar
 
 Department and University applications for Fall Semester 2018 Entry
 
-| **May 1, 2018**{: .nowrap } | University Application for Fall Semester 2018 is due for __international applicants__ residing outside the U.S. |
+| **APRIL 30, 2018**{: .nowrap } | University Application for Fall Semester 2018 is due for __international applicants__ residing outside the U.S. |
 | **May 15, 2018**{: .nowrap } | University Application for Fall Semester 2018 is due for __U.S. residents and international applicants residing inside the U.S.__ (with F-1 visa) |
-| **May 31, 2018**{: .nowrap } | Multimedia department application for Fall Semester 2018 is due |
+| **May 15, 2018**{: .nowrap } | Multimedia department application for Fall Semester 2018 is due |
 
 ### Information Sessions for Fall 2018 Entry
 
