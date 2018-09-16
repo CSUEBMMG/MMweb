@@ -12,7 +12,9 @@ The strength of the M.A. in Multimedia with a concentration in Interaction Desig
 View [Thesis Project Videos](https://www.youtube.com/watch?v=Z6aAhnLbHaw&list=PL-zTjF_nOo37KT4xs3nNPe88es_LDX-EK) on our YouTube Channel
 
 ### 2018
-TBA
+* {ar/philia &#x2661;; : Augmented Reality Visual Novel revolving around a young woman's relationship with an artificial intelligence
+* POV Sports: A multi-camera training tool for Sports Coaches
+* Wear My Story: An interactive audiovisual installation about prejudice and empathy
 
 ### 2017
 
@@ -24,8 +26,7 @@ TBA
 
 * Zahrah 2216: An interactive video art installation
 * Ideon: Changing a narrative using subconscious input
-* This time for Sita: An interactive popup book with video projections
-
+* This Time for Sita: An interactive popup book with video projections
 
 ### 2015
 

@@ -16,15 +16,18 @@ Each year, the Multimedia Graduate program accepts students from diverse discipl
 
     > The committee is looking to see that you&rsquo;ve got some experience working with interactive media. Common forms of this are websites involving navigation or interactive widgets, Virtual or Augmented reality projects or interfaces, DVDs with menus and indexes, interactive PDFs, Flash/SWF individual projects, MAX/MSP or Pure Data projects or use of MIDI in performance, or any other medium that features reaction to minimal amounts of user input. Often, your portfolio itself is proof of this, especially if you submit your works to be viewed on a website that you designed or content management system that you modified.
     {: .collapsible }
-    
-### Pathways for non-majors
 
-_For students who have compelling backgrounds in other disciplines we offer a 3-year pathway to an M.A. IN MULTIMEDIA WITH A CONCENTRATION IN INTERACTION DESIGN.  Based on review and consultation woth the department we are able to offer a three year program to students who have the passion, but lack prior experience in production and design of interactive experiences.  To be considered, apply to the department and the university and we will reach out to you._
-    
-### Tips for a successful application:
+### Pathways for Non-majors
+
+For students who have compelling backgrounds in other disciplines we also offer pathways to an M.A. in Multimedia with a concentration in Interaction Design that includes additional coursework.
+
+Based on review and consultation with the admission committee we are able to offer a __3-year program starting in the preceding fall__ to students who have the passion, but lack prior experience in production and design of interactive experiences. A three year option means that you will start in the fall semester and complete a year of preliminary courses before joining the regular cohort in the following year
+
+On rare occasion we also offer a __2.5-year option starting each year in the spring semester__ for students who just need to brush up on their skills before starting the Fall
+
+### Tips for a Successful Application:
 
 * Show only your best work; the committee values quality over quantity
 * Refer to your portfolio in your statement of purpose
 * Call the program office with any questions: (510) 936-2781 or email multimedia [at] csueastbay.edu
 * Download and review the [Portfolio Guidelines PDF](http://multimedia.csueastbay.edu/forms/portfolio-guidelines.pdf){:target="_blank"}
-
