@@ -1,6 +1,9 @@
 !!!
 - page_title = (current_page.data.title.is_a?(String) ? "#{current_page.data.title} - " : '') + "Cal State East Bay Multimedia Graduate Program (MM Grad)"
 %html(lang="#{current_page.data.lang || "en"}")
+  
+
+  
   %head
     %meta(charset="utf-8")
     %meta(name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1")
@@ -10,6 +13,9 @@
     %link(rel="canonical" href="#{data.config.canonical_host}#{current_page.url}")
     %title= page_title
     = stylesheet_link_tag "all"
+    %script{:type => "application/javascript"}
+      :cdata
+      (function(b,o,n,g,s,r,c){if(b[s])return;b[s]={};b[s].scriptToken="Xy0xODEyMjM4ODc1";b[s].callsQueue=[];b[s].api=function(){b[s].callsQueue.push(arguments);};r=o.createElement(n);c=o.getElementsByTagName(n)[0];r.async=1;r.src=g;r.id=s+n;c.parentNode.insertBefore(r,c);})(window,document,"script","//cdn.oribi.io/Xy0xODEyMjM4ODc1/oribi.js","ORIBI");  
   %body(class="#{page_classes}")
     %header
       = partial "partials/header"
