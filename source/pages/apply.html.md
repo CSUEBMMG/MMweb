@@ -13,17 +13,4 @@ __For more information check this page [here](../admission/).__
    Complete and submit at __<a href="https://www2.calstate.edu/apply/graduate">https://www2.calstate.edu/apply/graduate</a>__
 
 ### 2. Department Application
-   Complete the department application by following the link below:
-
-   <script type="text/javascript" id="rbox-loader-script">
-   if(!window._rbox){
-   _rbox = { host_protocol:document.location.protocol, ready:function(cb){this.onready=cb;} };
-   (function(d, e) {
-       var s, t, i, src=['/static/client-src-served/widget/43199/rbox_api.js', '/static/client-src-served/widget/43199/rbox_impl.js'];
-       t = d.getElementsByTagName(e); t=t[t.length - 1];
-       for(i=0; i<src.length; i++) {
-           s = d.createElement(e); s.src = _rbox.host_protocol + '//w.recruiterbox.com' + eval("src" + String.fromCharCode(91) + String(i) + String.fromCharCode(93));
-           t.parentNode.insertBefore(s, t.nextSibling);
-       }})(document, 'script');
-   }
-   </script>
+   For information about department application please email: &#109;&#117;&#108;&#116;&#105;&#109;&#101;&#100;&#105;&#97;&#64;&#99;&#115;&#117;&#101;&#97;&#115;&#116;&#98;&#97;&#121;&#46;&#101;&#100;&#117;
